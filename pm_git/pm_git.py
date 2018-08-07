@@ -3,3 +3,5 @@ def showlove():
 
 name = 'tommmm'
 age = 20
+
+showlove()
