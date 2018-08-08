@@ -10,3 +10,4 @@ showlove()
 def sayhi():
     print('Hi……')
 
+sayhi()
