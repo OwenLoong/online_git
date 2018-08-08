@@ -5,3 +5,7 @@ name = 'tommmm'
 age = 20
 
 showlove()
+
+def sayhi():
+    print('Hi……')
+
